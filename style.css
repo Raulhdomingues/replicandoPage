@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-image: url(./img/paisagem2.jpg); 
+    background-size: cover;
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 250px;
+}
+
+.conteudo {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.rodape {
+    background-color: #333333;
+    margin-top: 78px;
+    height: 190px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.rodape p {
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
