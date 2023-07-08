@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: url(./img/paisagem2.jpg); 
+    background-image: url(./img/paisagem-da-arvore-e-da-montanha-3d-no-nascer-do-sol.jpg); 
     background-size: cover;
 }
 
@@ -91,7 +91,7 @@ span {
 button {
     background-color: rgb(68, 67, 74);
     color: white;
-    weight: bold;
+    font-weight: bold;
     font-family: Roboto, sans;
     font-style: italic;
     font-size: 13px;
