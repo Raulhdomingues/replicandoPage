@@ -20,6 +20,21 @@ img {
     text-align: center;
     font-family: 'Roboto', sans-serif;
     color: white;
+    margin-top: 20px;
+}
+
+.conteudo input {
+    margin-top: 20px;
+    padding: 10px 80px 10px 80px;
+    border-radius: 4px;
+    border: none;
+}
+
+.conteudo button {
+    padding: 10px;
+    border-radius: 4px;
+    border: none;
+    margin-left: 2px;
 }
 
 .rodape {
@@ -56,7 +71,7 @@ span {
 .paragrafo {
     color: white;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 75px;
     font-family: Roboto, 'Roboto';
     font-size: 14px;
 }
@@ -64,8 +79,25 @@ span {
 .icones {
     display: flex;
     justify-content: center;
+    padding: 20px;
 }
 
 .icones img {
     width: 30px;
+    padding: 8px;
+    color: white;
+}
+
+button {
+    background-color: rgb(68, 67, 74);
+    color: white;
+    weight: bold;
+    font-family: Roboto, sans;
+    font-style: italic;
+    font-size: 13px;
+}
+
+button:hover {
+    background-color: white;
+    color: rgb(68, 67, 74);
 }
