@@ -1,1 +1,1 @@
-Replicando uma página já existente com algumas modificacões
+Replicando uma página simples já existente com algumas modificacões
